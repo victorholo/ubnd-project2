@@ -21,4 +21,5 @@ Libraries used:
 Deployment details:
 
 **_Rinkeby contract address: 0xBAd1a0464D4EE8dEC455Bbf1dD2D894d4ab2D271_**
+
 **_Rinkeby transaction hash: 0x82c6faea4c220cc49e25e12b9b9b13c5cccd6c7de253f009f65691a0d9ffa642_**
